@@ -72,7 +72,7 @@
 .caption{
 
     text-align: center;
-    margin-top: 70px;
+    margin-top: 90px;
     font-size: 50px;
 
 }
@@ -104,10 +104,11 @@
 .shadow{
 
     box-shadow: 10px 10px 40px lightgray;
-    height: 400px;
-    width: 420px;
-    margin-left: 40px;
-    border-radius: 5px;
+    height: 450px;
+    width: 380px;
+    margin-left: 60px;
+    border-radius: 10px;
+    background-color: darkgrey;
 }
 
 .extra{
@@ -147,10 +148,20 @@
     margin-bottom: 100px;
 }
 
+
+.first22{
+
+    padding: 10px;
+    color: rgba(31, 155, 250, 0.603);
+    font-size: 35px;
+}
+
+
 .first11{
 
     padding: 10px;
     color: rgba(31, 155, 250, 0.603);
+    font-size: 20px;
 }
 
 .first12{
@@ -199,4 +210,13 @@
     border-radius: 5px;
  
 
+}
+
+.black22{
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    padding: 30px ;
 }
