@@ -58,7 +58,145 @@
 
 }
 
+.photo1{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .two{
     color: yellow;
     font-size: 30px;
+}
+.caption{
+
+    text-align: center;
+    margin-top: 70px;
+    font-size: 50px;
+
+}
+
+.three-text{
+
+    display: flex;
+    margin-top: 50px;
+  
+}
+.photo{
+
+    width: 50px;
+    margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+.edit{
+
+    font-size: 22px;
+    color: black;
+    padding: 10px 15px;
+    opacity: 0.5;
+}
+
+.shadow{
+
+    box-shadow: 10px 10px 40px lightgray;
+    height: 400px;
+    width: 420px;
+    margin-left: 40px;
+    border-radius: 5px;
+}
+
+.extra{
+
+    display: flex;
+    margin-top: 150px;
+   
+}
+
+.gim{
+
+    height: 500px;
+    width: 300px;
+    transform: skewY(-15deg);
+   
+}
+
+.tera1{
+
+    padding-left: 120px;
+}
+
+.tera{
+
+  
+    padding-right: 120px;
+}
+
+.jamela{
+
+    display: flex;
+}
+
+.setup{
+
+    padding: 0 120px;
+    margin-bottom: 100px;
+}
+
+.first11{
+
+    padding: 10px;
+    color: rgba(31, 155, 250, 0.603);
+}
+
+.first12{
+    color: black;
+}
+
+.about-btn{
+
+    margin-top: 10px;
+    color: white;
+    background-color: tomato;
+    border-color: tomato;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.last-pera{
+
+    display: flex;
+    background-color:  rgb(43, 11, 133);
+    padding: 40px 50px;
+    margin-top: 5px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 20px;
+   
+}
+
+.jamela11{
+
+  text-align: center;
+  color: white;
+  font-size: 50px;
+}
+/* 
+.last-btn{
+
+    padding-right: 10px;
+    
+
+} */
+
+.what-btn{
+
+    background-color: lightgray;
+    border-radius: 5px;
+ 
+
 }
